@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Menon
-- 🔭 I’m currently working as Senior NLP Engineer at [@hishab.co](https://hishab.co/about-us)
+- 🔭 I’m currently working as a Senior NLP Engineer [@hishab.co](https://hishab.co/about-us)
 - 🌱 I’m currently learning the philosophy behind the "science of making it work"
 - 💬 Ask me about Deep Learning, NLP, Computer Vision, Linux based OS, Python
 - 📫 How to reach me [@menon92](https://www.linkedin.com/in/menon92/)
