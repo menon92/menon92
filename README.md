@@ -3,7 +3,7 @@
 - 📖 I'm currently reading [@goodreads](https://www.goodreads.com/user/show/39679705-mehadi-menon)
 - 🔭 I’m currently working as a Senior NLP Engineer [@hishab.co](https://hishab.co/about-us)
 - 🌱 I’m currently learning the philosophy behind the **"Science of making it work"**
-- 💬 Ask me about `Deep Learning`, `NLP`, `Computer Vision`, `Linux based OS`, `Python`
+- 💬 Ask me about `ML`, `Deep Learning`, `NLP`, `Computer Vision`, `Linux based OS`, `Python`
 - ```python
   __TECH_SKILS__ = {
     "Language": ["Python", "Bash", "C/C++", "Java", "SQL"],
