@@ -15,6 +15,6 @@
     "Web": ["Flask", "Django", "Requests", "HTML"],
     "DB": ["MySQL", "SQLite", "SQLAlchemy"],
     "Cloud": ["GCP", "AWS"],
-    "Others": ["PyQt", "LaTex", "Jupyter Notebook", "Jetson nano", "Raspberry Pi"],
+    "Others": ["PyQt", "LaTex"],
   }
   ```
