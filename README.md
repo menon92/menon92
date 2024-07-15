@@ -12,7 +12,7 @@
       "TensorFlow", "PyTorch", "Keras", "SpaCy",
       "Scikit-learn", "Numpy", "Pandas", "OpenCV", "Matplotlib"
     ],
-    "Web": ["Flask", "Django", "Requests", "HTML"],
+    "Web": ["Flask", "Django", "FastAPI"],
     "DB": ["MySQL", "SQLite", "SQLAlchemy"],
     "Cloud": ["GCP", "AWS"],
     "Others": ["Qt C++", "PyQt", "LaTex"],
