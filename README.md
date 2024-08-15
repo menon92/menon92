@@ -9,7 +9,7 @@
     "Language": ["Python", "Bash", "C/C++", "Java", "SQL"],
     "Dev Tools": [
         "Git", "Kubernetes", "Docker", "Github Action", "DVC",
-        "Linux", "Jira", Lense, ArgoCD, Jenkins
+        "Linux", "Jira", "Lense", "ArgoCD", "Jenkins",
     ],
     "ML/DL": [
       "TensorFlow", "PyTorch", "Keras", "SpaCy",
