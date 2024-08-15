@@ -8,8 +8,8 @@
   __TECH_SKILS__ = {
     "Language": ["Python", "Bash", "C/C++", "Java", "SQL"],
     "Dev Tools": [
-        "Git", "Docker", "Github Action", "DVC",
-        "VS-Code", "Linux", "Jira", "Slack",
+        "Git", "Kubernetes", "Docker", "Github Action", "DVC",
+        "Linux", "Jira", Lense, ArgoCD, Jenkins
     ],
     "ML/DL": [
       "TensorFlow", "PyTorch", "Keras", "SpaCy",
