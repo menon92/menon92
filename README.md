@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning the philosophy behind the **"Science of making it work"**
 - 💬 Ask me about `ML`, `Deep Learning`, `NLP`, `Computer Vision`, `Linux based OS`, `Python`, `MLOps`
 - ``` python
-  __TECH_SKILS__ = {
+  __SKILS__ = {
     "Language": ["Python", "Bash", "C/C++", "Java", "SQL"],
     "Dev Tools": [
         "Git", "Kubernetes", "Docker", "Github Action", "DVC",
