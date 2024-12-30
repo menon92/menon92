@@ -11,6 +11,6 @@
     "ML/DL": ["TensorFlow", "PyTorch", "Keras", "SpaCy", "Scikit-learn"],
     "Web": ["Flask", "Django", "FastAPI"],
     "DB": ["MySQL", "SQLite", "SQLAlchemy"],
-    "Others": ["Qt C++", "PyQt", "LaTex", GCP, AWS],
+    "Others": ["Qt C++", "PyQt", "LaTex", "GCP", "AWS"],
   }
   ```
