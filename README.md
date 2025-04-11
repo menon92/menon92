@@ -7,7 +7,8 @@
 - ``` python
   __SKILS__ = {
     "Language": ["Python", "Bash", "C/C++", "Java", "SQL"],
-    "Dev Tools": ["Git", "Kubernetes", "Docker", "Github Action", "DVC", "Linux", "Jira", "Lense", "ArgoCD", "Jenkins",],
+    "Dev Tools": ["Git", "Kubernetes", "Docker", "Github Action",
+                 "DVC", "Linux", "Jira", "Lense", "ArgoCD", "Jenkins",],
     "ML/DL": ["TensorFlow", "PyTorch", "Keras", "SpaCy", "Scikit-learn"],
     "Web": ["Flask", "Django", "FastAPI"],
     "DB": ["MySQL", "SQLite", "SQLAlchemy"],
